@@ -8,5 +8,5 @@
 7. **git init**
 8. **git add README.md** *This will only add the single README.md file to the staging area*
 9. **git commit -m** "first commit"
-10. **git remote add origin** https://github.com/*username*/nameofproject.git
+10. **git remote add origin** *https://github.com/username/nameofproject.git*
 11. **git push -u origin master**
